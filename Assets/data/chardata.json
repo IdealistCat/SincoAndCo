@@ -1,7 +1,8 @@
 {
   "sinco":{
-    "story_type":"main",
-    "hours": 4,
+    "story_type": "main",
+    "assets_suffix": "",
+    "hours": 1,
     "unlocked": true
   }
 }
