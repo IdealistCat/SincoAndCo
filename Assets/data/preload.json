@@ -1,5 +1,6 @@
 {
-  "menu": [
-    "images/menuBG.png"
+  "menus": [
+    "images/menuBG.png",
+    "images/menu_story/hour1.png"
   ]
 }
