@@ -1,3 +1,5 @@
-[
-  "images/menuBG.png"
-]
+{
+  "menu": [
+    "images/menuBG.png"
+  ]
+}
