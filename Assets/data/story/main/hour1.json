@@ -1,0 +1,9 @@
+[
+  {
+    "id":1,
+    "next":1,
+    "character": "Haxen",
+    "emote":"grumpTalk",
+    "text":"hello world"
+  }
+]
